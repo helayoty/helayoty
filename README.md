@@ -13,7 +13,6 @@ Currently focused on contributing to **Kubernetes SIG-Scheduling**, particularly
 |---------|---------|
 | **Contributions (1y)** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=helayoty&hide_border=true&theme=default) |
 | **My Work** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helayoty&layout=compact&hide_border=true) |
-| **Profile Stats** | ![Helal's GitHub stats](https://github-readme-stats.vercel.app/api?username=helayoty&show_icons=true&hide_border=true&count_private=true) |
 
 ---
 ### Let's Connect
