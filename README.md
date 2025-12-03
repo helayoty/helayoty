@@ -18,7 +18,7 @@ Currently focused on contributing to **Kubernetes SIG-Scheduling**, particularly
 ---
 ### Let's Connect
 - **Linktree:** https://linktr.ee/helayoty
-- **Blog:** https://medium.com/@helayoty 
+- **Blog:** https://www.helayoty.org
 
 > _Building systems is building power._
 
