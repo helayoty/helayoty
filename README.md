@@ -7,14 +7,6 @@ A Software Engineer specializing in **Kubernetes, cloud-native infrastructure, a
 Currently focused on contributing to **Kubernetes SIG-Scheduling**, particularly around **Workload-Aware Scheduling**, **Topology-Aware Scheduling**, sometimes **device resource assignment (DRA)**, and **AI workload orchestration**.
 
 ---
-### GitHub Analytics
-
-| Metrics | Details |
-|---------|---------|
-| **Contributions (1y)** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=helayoty&hide_border=true&theme=default) |
-| **My Work** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helayoty&layout=compact&hide_border=true) |
-
----
 ### Let's Connect
 - **Linktree:** https://linktr.ee/helayoty
 - **Blog:** https://www.helayoty.org
