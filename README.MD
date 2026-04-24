@@ -7,4 +7,3 @@ A Software Engineer specializing in **Kubernetes, cloud-native infrastructure, a
 Currently focused on contributing to **Kubernetes SIG-Scheduling**, particularly around **Workload-Aware Scheduling**, **Topology-Aware Scheduling**, sometimes **device resource assignment (DRA)**, and **AI workload orchestration**.
 
 > _Building systems is building power._
-
