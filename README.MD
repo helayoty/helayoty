@@ -1,6 +1,6 @@
 ### Hi 👋, I'm [Heba Elayoty](https://helayoty.org) 
 
-## Free Palestine, Sudan, Kungo, Lebanon! 
+## Free Palestine, Sudan, Kungo, Lebanon, Syria!
 ## Nobody is free until we are all free!
 
 A Software Engineer specializing in **Kubernetes, cloud-native infrastructure, and distributed systems**.
